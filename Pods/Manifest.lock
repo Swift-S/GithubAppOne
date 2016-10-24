@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (3.1.5)
+  - GitHubAuth (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1.2)
+  - GitHubAuth
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  GitHubAuth: 54d22c831288fdf67ed7c380b1127b0d8b729d64
+
+PODFILE CHECKSUM: afa3aa17de11d834586ff82c448569bf19969106
+
+COCOAPODS: 1.1.0.rc.3

@@ -1,0 +1,6 @@
+framework module GitHubAuth {
+  umbrella header "GitHubAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}
